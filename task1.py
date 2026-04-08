@@ -4,7 +4,7 @@ import seaborn as sns
 from utils import load_data
 
 # Load dataset
-df = load_data("data/sales_data.csv")
+df = load_data("sales_data.csv")
 
 # -----------------------------
 # 1. Revenue Trend (Monthly)
